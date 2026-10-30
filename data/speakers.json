@@ -628,5 +628,215 @@
       "website": ""
     },
     "expertise": []
+  },
+  {
+    "id": "patrick-widjaja",
+    "name": "Patrick Widjaja",
+    "role": "Senior Product Marketing Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "amar-badal",
+    "name": "Amar Badal",
+    "role": "Senior PM",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "irene-du",
+    "name": "Irene Du",
+    "role": "Senior Product Marketing Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "ninad-joshi",
+    "name": "Ninad Joshi",
+    "role": "AI Partner Solutions Architect",
+    "affiliation": "Mistral AI",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "alicia-frame",
+    "name": "Alicia Frame",
+    "role": "Principal Product Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "jacky-kang",
+    "name": "Jacky Kang",
+    "role": "Principal Program Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "tanvi-tushar-shah",
+    "name": "Tanvi Tushar Shah",
+    "role": "Principal Product Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "yiwen-rong",
+    "name": "Yiwen Rong",
+    "role": "Principal Product Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "manoj-bableshwar",
+    "name": "Manoj Bableshwar",
+    "role": "Principal Product Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "marie-louise-onga-nana",
+    "name": "Marie-Louise Onga Nana",
+    "role": "Product Marketing Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "jeff-boudier",
+    "name": "Jeff Boudier",
+    "role": "VP of Product",
+    "affiliation": "Hugging Face",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "brett-laffel",
+    "name": "Brett Laffel",
+    "role": "Partner Marketing",
+    "affiliation": "Fireworks.ai",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "gana-chandrasekaran",
+    "name": "Dr Gana Chandrasekaran",
+    "role": "GTM Lead",
+    "affiliation": "Fireworks",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
+  },
+  {
+    "id": "long-chen",
+    "name": "Long Chen",
+    "role": "Senior Product Marketing Manager",
+    "affiliation": "Microsoft",
+    "profileImage": "",
+    "bio": "",
+    "socialLinks": {
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "website": ""
+    },
+    "expertise": []
   }
 ]

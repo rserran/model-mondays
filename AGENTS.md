@@ -43,7 +43,7 @@ AMA numbers are global, unique, and sequential. An AMA may optionally link to a 
 - Season 1: 8 episodes, completed.
 - Season 2: 13 episodes, completed.
 - Season 3: 17 episodes, completed.
-- Season 4: 12 episodes, August 10-November 2, 2026, active.
+- Season 4: 12 episodes, August 10-November 9, 2026, active.
 - Foundry Fridays: 49 numbered entries through AMA #049.
 
 Season 4 is titled **Model Spotlights for Agent Builders**.

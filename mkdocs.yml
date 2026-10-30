@@ -36,7 +36,7 @@ theme:
         name: Switch to light mode
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       primary: black
       accent: pink
       toggle:
@@ -57,7 +57,7 @@ theme:
     - navigation.expand             # sidebar collapsible sections open
     - navigation.instant.progress   # load progress indicator
     - navigation.tracking           # tracks anchor tags in URL
-    - navigation.tabs               # tabbed on desktop, single in mobile    
+    - navigation.tabs               # tabbed on desktop, single in mobile
     - navigation.tabs.sticky
     - navigation.path               # add breadcrumbs
     - navigation.indexes            # index.md is default page for section
@@ -125,7 +125,7 @@ nav:
     - 09 | Speech Models: model-mondays/2026-10-12-s04-e09.md
     - 10 | Hugging Face: model-mondays/2026-10-19-s04-e10.md
     - 11 | Open Models: model-mondays/2026-10-26-s04-e11.md
-    - 12 | NVIDIA Models: model-mondays/2026-11-02-s04-e12.md
+    - 12 | NVIDIA Models: model-mondays/2026-11-09-s04-e12.md
   - Foundry Friday AMAs: foundry-fridays/README.md
   - Customer Stories: customer-stories/README.md
   - Hugging Face: hugging-face/README.md

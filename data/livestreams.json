@@ -281,10 +281,15 @@
     "host": "Amy Boyd",
     "speakers": [
       "Sophie Lebrecht",
-      "Yanan Cai"
+      "Yanan Cai",
+      "Sharmila Chockalingam",
+      "Nitya Narasimhan"
     ],
     "banner": "docs/assets/model-mondays/S4-E1.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27393/",
+      "recording": "https://www.youtube.com/watch?v=C7SUG4s7aLo"
+    },
     "tags": []
   },
   {
@@ -299,10 +304,14 @@
     "status": "completed",
     "host": "Bethany Jepchumba",
     "speakers": [
-      "Andy Tran"
+      "Andy Tran",
+      "Sharmila Chockalingam"
     ],
     "banner": "docs/assets/model-mondays/S4-E2.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27511/",
+      "recording": "https://www.youtube.com/watch?v=CtGqQAZZGjU"
+    },
     "tags": []
   },
   {
@@ -324,6 +333,7 @@
     ],
     "banner": "docs/assets/model-mondays/S4-E3.png",
     "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27496/",
       "recording": "https://www.youtube.com/watch?v=od_WTpE2nH4"
     },
     "tags": []
@@ -341,10 +351,15 @@
     "host": "Nitya Narasimhan",
     "speakers": [
       "Gulsimo Osimi",
-      "Yash Lara"
+      "Yash Lara",
+      "Patrick Widjaja",
+      "Sharmila Chockalingam"
     ],
     "banner": "docs/assets/model-mondays/S4-E4.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27512/",
+      "recording": "https://www.youtube.com/watch?v=5jK-4TaZocY"
+    },
     "tags": []
   },
   {
@@ -352,7 +367,7 @@
     "season": 4,
     "episode": 5,
     "title": "Claude Models in Microsoft Foundry: Tool Integrations in Practice",
-    "description": "A single well-crafted prompt only gets an agent so far. This session shows how to take agents further with tool integrations available for Claude in Microsoft Foundry hosted on Azure. We'll build workflows from scratch, covering the setup choices that matter most and how to get them right from the start",
+    "description": "A single well-crafted prompt only gets an agent so far. This session shows how to take agents further with tool integrations available for Claude in Microsoft Foundry hosted on Azure. We'll build workflows from scratch, covering the setup choices that matter most and how to get them right from the start.",
     "date": "2026-09-14",
     "time": "1:30pm ET",
     "duration": 60,
@@ -360,10 +375,16 @@
     "host": "Gustavo Cordido",
     "speakers": [
       "Amanda Wong",
-      "Haoran Cheng"
+      "Haoran Cheng",
+      "Amar Badal",
+      "Sharmila Chockalingam",
+      "Nitya Narasimhan"
     ],
     "banner": "docs/assets/model-mondays/S4-E5.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27542/",
+      "recording": "https://www.youtube.com/watch?v=x5qDSukgTi4"
+    },
     "tags": []
   },
   {
@@ -378,10 +399,15 @@
     "status": "completed",
     "host": "Nitya Narasimhan",
     "speakers": [
-      "Ananya Bishnoi"
+      "Ananya Bishnoi",
+      "Irene Du",
+      "Sharmila Chockalingam"
     ],
     "banner": "docs/assets/model-mondays/S4-E6.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27561/",
+      "recording": "https://www.youtube.com/watch?v=HnnJ54xJmEM"
+    },
     "tags": []
   },
   {
@@ -393,14 +419,21 @@
     "date": "2026-09-28",
     "time": "1:30pm ET",
     "duration": 60,
-    "status": "scheduled",
+    "status": "completed",
     "host": "Amy Boyd",
     "speakers": [
       "Victor Rojo",
-      "Peyman Mohajerian"
+      "Peyman Mohajerian",
+      "Irene Du",
+      "Ninad Joshi",
+      "Sharmila Chockalingam",
+      "Nitya Narasimhan"
     ],
     "banner": "docs/assets/model-mondays/S4-E7.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27546/",
+      "recording": "https://www.youtube.com/watch?v=OX1RWeQGhfg"
+    },
     "tags": []
   },
   {
@@ -412,11 +445,19 @@
     "date": "2026-10-05",
     "time": "1:30pm ET",
     "duration": 60,
-    "status": "scheduled",
+    "status": "completed",
     "host": "Bethany Jepchumba",
-    "speakers": [],
+    "speakers": [
+      "Alicia Frame",
+      "Patrick Widjaja",
+      "Sharmila Chockalingam",
+      "Nitya Narasimhan"
+    ],
     "banner": "docs/assets/model-mondays/S4-E8.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27545/",
+      "recording": "https://www.youtube.com/watch?v=b-82zc3LdMM"
+    },
     "tags": []
   },
   {
@@ -424,15 +465,25 @@
     "season": 4,
     "episode": 9,
     "title": "Spotlight on Speech Models",
-    "description": "Speech models enable applications to understand and generate spoken language, supporting experiences such as transcription, voice interaction, and accessible conversational interfaces. Join us as we explore speech capabilities in Microsoft Foundry and see how they can be integrated into responsive, voice-enabled AI agents.",
+    "description": "Speech models let applications understand and generate spoken language, powering transcription, real-time voice interaction, and accessible conversational interfaces. This session explores building, testing, monitoring, and optimizing a voice agent in the Foundry playground, alongside speech-to-text, text-to-speech, and speech-to-speech models in Microsoft Foundry, including new MAI models.",
     "date": "2026-10-12",
     "time": "1:30pm ET",
     "duration": 60,
-    "status": "scheduled",
+    "status": "completed",
     "host": "Gustavo Cordido",
-    "speakers": [],
+    "speakers": [
+      "Irene Du",
+      "Jacky Kang",
+      "Sharmila Chockalingam",
+      "Tanvi Tushar Shah",
+      "Yiwen Rong",
+      "Nitya Narasimhan"
+    ],
     "banner": "docs/assets/model-mondays/S4-E9.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27565/",
+      "recording": "https://www.youtube.com/watch?v=rBFQLt3StVI"
+    },
     "tags": []
   },
   {
@@ -444,11 +495,20 @@
     "date": "2026-10-19",
     "time": "1:30pm ET",
     "duration": 60,
-    "status": "scheduled",
+    "status": "completed",
     "host": "Amy Boyd",
-    "speakers": [],
+    "speakers": [
+      "Manoj Bableshwar",
+      "Marie-Louise Onga Nana",
+      "Sharmila Chockalingam",
+      "Jeff Boudier",
+      "Nitya Narasimhan"
+    ],
     "banner": "docs/assets/model-mondays/S4-E10.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27566/",
+      "recording": "https://www.youtube.com/watch?v=naK9Ul44Dbs"
+    },
     "tags": []
   },
   {
@@ -456,15 +516,24 @@
     "season": 4,
     "episode": 11,
     "title": "Spotlight on Open Models",
-    "description": "Open models such as Kimi-K and Inkling give developers additional choices for reasoning, coding, and agentic workloads, with different tradeoffs in capability, flexibility, and deployment. Join us as we explore these models in Microsoft Foundry and see how evaluation can help identify the right open model for an AI agent.",
+    "description": "Fireworks brings open-model customization to Microsoft Foundry as a first-party service. This session explores deploying models from the Foundry catalog, training them on enterprise data, and serving them through an Azure subscription with existing identity, governance, and billing controls.",
     "date": "2026-10-26",
     "time": "1:30pm ET",
     "duration": 60,
-    "status": "scheduled",
+    "status": "completed",
     "host": "Bethany Jepchumba",
-    "speakers": [],
+    "speakers": [
+      "Brett Laffel",
+      "Dr Gana Chandrasekaran",
+      "Long Chen",
+      "Sharmila Chockalingam",
+      "Nitya Narasimhan"
+    ],
     "banner": "docs/assets/model-mondays/S4-E11.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27576/",
+      "recording": "https://www.youtube.com/watch?v=pmz_6Sg0QAY"
+    },
     "tags": []
   },
   {
@@ -473,14 +542,19 @@
     "episode": 12,
     "title": "Spotlight on NVIDIA Models",
     "description": "NVIDIA models give developers options for building and deploying AI workloads that require strong reasoning, generation, and accelerated inference across a range of application scenarios. Join us as we explore NVIDIA models in Microsoft Foundry and see how they can be evaluated and used to build effective AI agents.",
-    "date": "2026-11-02",
+    "date": "2026-11-09",
     "time": "1:30pm ET",
     "duration": 60,
     "status": "scheduled",
     "host": "Nitya Narasimhan",
-    "speakers": [],
+    "speakers": [
+      "Marie-Louise Onga Nana",
+      "Sharmila Chockalingam"
+    ],
     "banner": "docs/assets/model-mondays/S4-E12.png",
-    "links": {},
+    "links": {
+      "registration": "https://developer.microsoft.com/en-us/reactor/events/27577/"
+    },
     "tags": []
   },
   {
